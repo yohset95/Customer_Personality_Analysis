@@ -155,6 +155,7 @@ Then, I compared those k's with their Silhouette Scores
 | 2 | 0.19 |
 | **3** | **0.21** |
 | 4 | 0.19 |
+
 Therefore, I choose the number of clusters (k) = 3 because it has the highest Silhouette Score
 
 ## Dimensionality Reduction for Clustering Plot
